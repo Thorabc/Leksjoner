@@ -18,6 +18,7 @@ Ferdighet 10 fasit: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010%20F
 ### Repetisjon ###
 
 ### Videre leksjoner ###
+Kalkulator: [Her](https://thorabc.github.io/Leksjoner/Kalkulator.html)<br/>
 
 
 ## Get it: ##
