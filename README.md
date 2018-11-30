@@ -1,8 +1,7 @@
 # Leksjoner
 
-## Start it ##
-
+## Start it: ##
 
 Leksjon 4: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%204.html)
 
-## Get it ##
+## Get it: ##
