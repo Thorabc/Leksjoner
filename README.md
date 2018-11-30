@@ -1,3 +1,2 @@
 # Leksjoner
-
-<p>Dette er en Leksjon</p>
+# Dette er en leksjon
