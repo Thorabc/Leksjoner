@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+<h3>Løkker og tabeller</h3>
+<ul>
+	<li>
+		Løkker
+		<ul>
+			<li><tt>while</tt></li>
+			<li><tt>for</tt></li>
+		</ul>
+	</li>
+	<li>Tabeller - "array"</li>
+</ul>
+<hr/>
+<script type="text/javascript">
+	//var names = ['Per', 'Pål', 'Espen', 'Terje', 'A', 'B', 'C'];
+	var names = [];
+	names.push('Per');
+	names.push('Pål');
+	names.push('Espen');
+
+	for (var i =0; i < names.lenght; i++) {
+		if (names[i] != null) {
+		document.write('Hei,  ' + names[i] + '!<br/>');
+		}
+	}
+
+</script>
+</body>
+</html>
