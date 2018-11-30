@@ -25,7 +25,7 @@ Ludo: [Her](https://thorabc.github.io/Leksjoner/ludo%20(8).html)<br/>
 Kalkulator: [Her](https://thorabc.github.io/Leksjoner/Kalkulator.html)<br/>
 KalkulatorLøsningsforslag: [Her](https://thorabc.github.io/Leksjoner/KalkulatorLøsningsforslag.html)<br/>
 LabyrintGenerator: [Her](https://thorabc.github.io/Leksjoner/LabyrintGenerator.html)<br/>
-Løkker og Arrays: [Her](https://thorabc.github.io/Leksjoner/Løkker%20og%20Arrays.html)<br/>  
+Løkker og Arrays: [Her](https://thorabc.github.io/Leksjoner/Løkker%20og%20Arrays.html) 
 NøkkelordetThis: [Her](https://thorabc.github.io/Leksjoner/NøkkelordetThis.html)<br/>
 OnchangeJS: [Her](https://thorabc.github.io/Leksjoner/OnchangeJS.html)<br/>
 Quiz2: [Her](https://thorabc.github.io/Leksjoner/Quiz2.html)<br/>
