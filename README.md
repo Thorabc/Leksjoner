@@ -1,3 +1,3 @@
 # Leksjoner
 
-[Ferdighet 4] (Ferdighet%204.html) 
+This site was built using [GitHub Pages](https://pages.github.com/)
