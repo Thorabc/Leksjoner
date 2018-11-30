@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        table, tr, td {
+            border: 1px solid gray;
+        }
+
+        td {
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <input type="range"
+           min="0" max="20"
+           step="1" value="0"
+           oninput="drawBoard(this)" />
+    <table id="board"></table>
+    <script>
+        var board = document.getElementById('board');
+        function drawBoard(inputTag) {
+            var size = parseInt(inputTag.value);
+            var html = '';
+            for (var rowIndex = 0; rowIndex < size; rowIndex++) {
+                html += '<tr>';
+                for (var colIndex = 0; colIndex < size; colIndex++) {
+                    html += `<td>r=${rowIndex} c=${colIndex}</td>`;
+                }
+                html += '</tr>';
+            }
+            board.innerHTML = html;
+        }
+    </script>
+</body>
+</html>
