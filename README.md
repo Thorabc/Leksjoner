@@ -3,7 +3,7 @@
 ## Start it: ##
 
 ### Grunnferdighet i Javascript ###
-Ferdighet 1:[Her](https://thorabc.github.io/Ferdighet%201.html)
+Ferdighet 1:[Her](https://thorabc.github.io/leksjoner/Ferdighet%201.html)
 Ferdighet 4:[Her](https://thorabc.github.io/Leksjoner/Ferdighet%204.html/)
 
 
