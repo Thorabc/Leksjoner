@@ -33,7 +33,7 @@ Todo uten objekter: [Her](https://thorabc.github.io/Leksjoner/Todo%20uten%20obje
 Tre på rad: [Her](https://thorabc.github.io/Leksjoner/Tre%20på%20rad.html)<br/>
 Tre på rad løsning: [Her](https://thorabc.github.io/Leksjoner/Tre%20på%20rad%20løsning.html)<br/>
 Undervisningsøkt 13.11.2018: [Her](https://thorabc.github.io/Leksjoner/Undervisningsøkt%2013.11.2018.html)<br/>
-labyrint: [Her](https://thorabc.github.io/Leksjoner/labyrint%20(1).html=<br/>
+labyrint: [Her](https://thorabc.github.io/Leksjoner/labyrint%20(1).html)<br/>
 yatzy: [Her](https://thorabc.github.io/Leksjoner/yatzy%20(1).html)<br/>
 yatzy med totalsum automatisk: [Her](https://thorabc.github.io/Leksjoner/yatzy%20med%20totalsum%20automatisk.html)<br/>
 Åpningstider: [Her](https://thorabc.github.io/Leksjoner/Åpningstider.html)<br/>
