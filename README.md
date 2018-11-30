@@ -17,7 +17,7 @@ Ferdighet 10 fasit: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010%20F
 
 ### Case oppgave ###
 
-Ludo: [Her](https://thorabc.github.io/Leksjoner/ludo%20(8).html)<br/
+Ludo: [Her](https://thorabc.github.io/Leksjoner/ludo%20(8).html)<br/>
 
 ### Repetisjon ###
 
