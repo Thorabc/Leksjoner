@@ -1,6 +1,8 @@
 # Leksjoner
 
 ## Start it: ##
+
+### Grunnferdighet i Javascript ###
 Ferdighet 1:[Her](https://thorabc.github.io/Java1.html)
 Ferdighet 2:[Her](https://thorabc.github.io/Java2.html)
 Ferdighet 3:[Her](https://thorabc.github.io/Java3.html)
