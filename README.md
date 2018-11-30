@@ -1,5 +1,3 @@
-# Leksjoner
-
 ## Start it: ##
 
 ### Grunnferdighet i Javascript ###
