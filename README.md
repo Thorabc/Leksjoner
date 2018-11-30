@@ -15,5 +15,9 @@ Ferdighet 9b: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%209b.html)<br/
 Ferdighet 10: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010.html)<br/>
 Ferdighet 10 fasit: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010%20Fasit.html)
 
+### Repetisjon ###
+
+### Videre leksjoner ###
+
 
 ## Get it: ##
