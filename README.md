@@ -15,6 +15,10 @@ Ferdighet 9b: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%209b.html)<br/
 Ferdighet 10: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010.html)<br/>
 Ferdighet 10 fasit: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010%20Fasit.html)
 
+### Case oppgave ###
+
+Ludo: [Her](https://thorabc.github.io/Leksjoner/ludo%20(8).html)<br/>
+
 ### Repetisjon ###
 
 ### Videre leksjoner ###
@@ -37,15 +41,5 @@ labyrint: [Her](https://thorabc.github.io/Leksjoner/labyrint%20(1).html)<br/>
 yatzy: [Her](https://thorabc.github.io/Leksjoner/yatzy%20(1).html)<br/>
 yatzy med totalsum automatisk: [Her](https://thorabc.github.io/Leksjoner/yatzy%20med%20totalsum%20automatisk.html)<br/>
 Åpningstider: [Her](https://thorabc.github.io/Leksjoner/Åpningstider.html)<br/>
-
-
-
-
-
-
-
-
-
-
 
 ## Get it: ##
