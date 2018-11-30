@@ -19,6 +19,7 @@ Ferdighet 10 fasit: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010%20F
 
 ### Videre leksjoner ###
 Kalkulator: [Her](https://thorabc.github.io/Leksjoner/Kalkulator.html)<br/>
+KalkulatorLøsningsforslag: [Her](https://thorabc.github.io/Leksjoner/KalkulatorLøsningsforslag.html)<br/>
 
 
 ## Get it: ##
