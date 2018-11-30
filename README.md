@@ -27,7 +27,7 @@ KalkulatorLøsningsforslag: [Her](https://thorabc.github.io/Leksjoner/Kalkulator
 LabyrintGenerator: [Her](https://thorabc.github.io/Leksjoner/LabyrintGenerator.html)<br/>
 Løkker og Arrays: [Her](https://thorabc.github.io/Leksjoner/Løkker%20og%20Arrays.html)<br/>  
 NøkkelordetThis: [Her](https://thorabc.github.io/Leksjoner/NøkkelordetThis.html)<br/>
-OnchangeJS: [Her](https://thorabc.github.io/Leksjoner/OnchangeJS.html)</br/>
+OnchangeJS: [Her](https://thorabc.github.io/Leksjoner/OnchangeJS.html)<br/>
 Quiz2: [Her](https://thorabc.github.io/Leksjoner/Quiz2.html)<br/>
 Quiz3: [Her](https://thorabc.github.io/Leksjoner/Quiz3.html)<br/>
 TampenBrenner: [Her](https://thorabc.github.io/Leksjoner/TampenBrenner.html)<br/>
