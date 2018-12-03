@@ -1,4 +1,4 @@
-# Start it: #
+## Start it: ##
 
 ### Grunnferdighet i Javascript ###
 Ferdighet 1: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%201.html)<br/>
