@@ -1,5 +1,9 @@
 ## Start it: ##
 
+### Grunnferdighet i Html ###
+
+### Grunnferdighet i CSS ###
+
 ### Grunnferdighet i Javascript ###
 Ferdighet 1: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%201.html)<br/>
 Ferdighet 2: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%202.html)<br/>
