@@ -20,7 +20,7 @@ Ferdighet 10: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010.html)<br/
 Ferdighet 10 fasit: [Her](https://thorabc.github.io/Leksjoner/Ferdighet%2010%20Fasit.html)
 
 ### Case oppgave ###
-TriviaApp: 
+TriviaApp: [Her](https://thorabc.github.io/Leksjoner/TriviaApp.html)<br/>
 
 Ludo: [Her](https://thorabc.github.io/Leksjoner/ludo%20(8).html)<br/>
 
