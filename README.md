@@ -48,4 +48,4 @@ yatzy med totalsum automatisk: [Her](https://thorabc.github.io/Leksjoner/yatzy%2
 Åpningstider: [Her](https://thorabc.github.io/Leksjoner/Åpningstider.html)<br/>
 
 ## Get it: ##
-Nettside Get Academy: [Her](https://thorabc.github.io/Leksjoner/Get IT nettside CSS grid.html)<br/>
+Nettside Get Academy: [Her](https://thorabc.github.io/Leksjoner/Get IT nettside CSS grid.html)
