@@ -24,6 +24,9 @@ TriviaApp: [Her](https://thorabc.github.io/Leksjoner/TriviaApp.html)<br/>
 
 Ludo: [Her](https://thorabc.github.io/Leksjoner/ludo%20(8).html)<br/>
 
+### Fritidsoppgaver ###
+World clock: [Her](https://thorabc.github.io/Leksjoner/World%20Clock%20v2.html)<br/>
+
 ### Repetisjon ###
 
 ### Videre leksjoner ###
